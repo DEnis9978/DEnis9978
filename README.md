@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEnis9978
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning game desing in Unreal Engine and Godot
+- 👀 I’m interested in palying games, developing games, everything about games
+- 🌱 I’m currently learning game design in Unreal Engine and Godot
 - 💞️ I’m currently searching for internships in game industry
 - 📫 How to reach me: denis99nadi@gmail.com
 <!---
