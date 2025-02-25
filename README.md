@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEnis9978
 - 👀 I’m interested in palying games, developing games, everything about games
-- 🌱 I’m currently learning game design in Unreal Engine and Godot, working on something magical on my own
+- 🌱 I’m currently learning game design in Unreal Engine and Godot, working on something magical on my own. EDIT: CLICKY! is out now. Check out my itch.io profile with the link below.
 - 💞️ I’m currently searching for internships in game industry
 - 📫 How to reach me: denis99nadi@gmail.com
 - 👀 My profile on itch.io: https://specialthing2.itch.io/
